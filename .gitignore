@@ -1,0 +1,5 @@
+GTSRB/
+*.zip
+GT-final_test.csv
+__pycache__/
+.pytest_cache/
